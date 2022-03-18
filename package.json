@@ -1,0 +1,21 @@
+{
+  "name": "alura-cypress",
+  "version": "1.0.0",
+  "description": "Primeiro projeto com Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github/selbersilva"
+  },
+  "author": "Selber Silva",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.5.2"
+  },
+  "devDependencies": {
+    "mochawesome": "^7.1.2"
+  }
+}
